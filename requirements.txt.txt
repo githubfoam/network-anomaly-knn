@@ -1,8 +1,8 @@
-numpy
-scikit-learn
 pandas
-jupyter
+scikit-learn
+joblib
+numpy
 matplotlib
-seaborn
-flake8
+jupyter
 pytest
+kaggle

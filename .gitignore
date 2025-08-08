@@ -1,5 +1,20 @@
+# Python
 __pycache__/
 *.pyc
-.ipynb_checkpoints/
-data/
+*.pyo
+*.pyd
+.venv/
+venv/
 .env
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data
+data/*.csv
+!data/README_DATA.md
+
+# Models
+*.joblib
+*.pkl
